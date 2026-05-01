@@ -15,6 +15,7 @@ This repository provides the compiled **BPL files** (Borland Package Library) fo
 
 ## Table of Contents
 
+- [Versionshistorie](#Versionhistory)
 - [About the Plugin](#about-the-plugin)
 - [Supported Delphi Versions](#supported-delphi-versions)
 - [Installation](#installation)
@@ -23,6 +24,10 @@ This repository provides the compiled **BPL files** (Borland Package Library) fo
 - [License](#license)
 
 ---
+
+## Versionhistory
+[Versionshistorie](Versionhistory.md)
+
 
 ## About the Plugin
 
